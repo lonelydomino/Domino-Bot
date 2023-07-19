@@ -22,7 +22,7 @@ async def on_message(message):
   if message.author == client.user:
     return
 
-  msg = message.content
+  msg = message.content.lower()
 
   if msg.startswith("Domino-Bot") or msg.startswith("Domino-bot") or msg.startswith("domino-bot"):
     response = openai.ChatCompletion.create(
