@@ -24,7 +24,7 @@ async def on_message(message):
 
   msg = message.content.lower()
 
-  if msg.startswith("Domino-Bot") or msg.startswith("Domino-bot") or msg.startswith("domino-bot"):
+  if "domino" in msg and "bot" in msg:
     response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
     messages=[
