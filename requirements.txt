@@ -3,7 +3,7 @@ discord @ https://files.pythonhosted.org/packages/63/10/b5c31ebcccca0e9d69bea565
 discord.py @ https://files.pythonhosted.org/packages/b5/78/241e04365a7dd8456f9b9e7db60c6e672a154d6683831aba03c3cda62756/discord.py-2.3.1-py3-none-any.whl#sha256=149652f24da299706270bf8c03c2fcf80cf1caf3a480744c61d5b001688b380d
 
 openai @ https://files.pythonhosted.org/packages/67/78/7588a047e458cb8075a4089d721d7af5e143ff85a2388d4a28c530be0494/openai-0.27.8-py3-none-any.whl#sha256=e0a7c2f7da26bdbe5354b03c6d4b82a2f34bd4458c7a17ae1a7092c3e397e03c
-packaging @ https://files.pythonhosted.org/packages/ab/c3/57f0601a2d4fe15de7a553c00adbc901425661bf048f2a22dfc500caf121/packaging-23.1-py3-none-
+
 replit @ https://files.pythonhosted.org/packages/21/fd/cfd59ec9bb5853cc203eab6f34d4275e78bf2970557b2de52dca0a72b08f/replit-3.3.1-py3-none-any.whl#sha256=8a95b3fd2bc60aa2792e5796aae8ab25d61db7b253ce9f410e76ac33a5521a86
 replit-python-lsp-server @ https://files.pythonhosted.org/packages/09/42/44ff903505cefa2b2d06fcc164ddff74510eece259e30da6a0c2c68976c8/replit_python_lsp_server-1.15.9-py3-none-any.whl#sha256=205faf150008be7d3da2ac16fc178c833d22835e24841cb82b666443a6b28bef
 virtualenv==20.17.1
